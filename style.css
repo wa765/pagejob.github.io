@@ -1,0 +1,464 @@
+                                        /* ukuran mobile */
+                                        /* iki ukuran mobile cok */
+                                        
+                                        .bg-navbar {
+                                            background: #262626;
+                                        }
+                                        
+                                        .nav-link {
+                                            font-family: Poppins;
+                                            font-size: 18px;
+                                        }
+                                        
+                                        .tombol-login {
+                                            background: #E2C31C;
+                                            border-radius: 15px;
+                                        }
+                                        
+                                        .tombol-login:hover {
+                                            background: #e6d367;
+                                        }
+                                        
+                                        .jumbotron {
+                                            background: #262626;
+                                        }
+                                        
+                                        .find {
+                                            color: #F4F4F4;
+                                            font-size: 64px;
+                                            font-weight: 800;
+                                            font-family: Poppins;
+                                            font-style: normal;
+                                        }
+                                        
+                                        .lead {
+                                            font-size: 18px;
+                                            color: #F4F4F4;
+                                            margin-top: 20px;
+                                            letter-spacing: 1px;
+                                        }
+                                        
+                                        .tombol-start {
+                                            width: 184px;
+                                            height: 64px;
+                                            background: #E2C31C;
+                                            border-radius: 35px;
+                                            font-size: 23px;
+                                            font-family: Poppins;
+                                            font-weight: bold;
+                                            color: #262626;
+                                            margin-top: 40px;
+                                        }
+                                        
+                                        .tombol-start:hover {
+                                            background: #e6d367;
+                                        }
+                                        
+                                        .circle {
+                                            width: 254px;
+                                            height: 254px;
+                                            background: #E2C31C;
+                                            position: absolute;
+                                            z-index: -1;
+                                            overflow: hidden;
+                                            border-radius: 190px;
+                                            margin-left: 100px;
+                                        }
+                                        
+                                        .orang {
+                                            width: 500px;
+                                            margin-left: -20px;
+                                        }
+                                        
+                                        .orang2 {
+                                            width: 235px;
+                                            height: 260px;
+                                            margin-left: 20px;
+                                            margin-top: 20px;
+                                        }
+                                        
+                                        .circle {
+                                            width: 254px;
+                                            height: 254px;
+                                            background: #E2C31C;
+                                            z-index: -1;
+                                            overflow: hidden;
+                                            border-radius: 190px;
+                                            margin-left: 100px;
+                                            position: relative;
+                                        }
+                                        
+                                        .why {
+                                            margin-top: 20px;
+                                            font-size: 30px;
+                                            color: #262626;
+                                            text-align: center;
+                                        }
+                                        /* Bagian heading dan paragraf */
+                                        
+                                        .user {
+                                            font-size: 26px;
+                                            font-family: Poppins;
+                                            font-weight: bold;
+                                            color: #262626;
+                                            text-align: center;
+                                            margin: auto;
+                                        }
+                                        
+                                        .kotak {
+                                            width: 60px;
+                                            background: #E2C31C;
+                                            height: 15px;
+                                            margin-left: 235px;
+                                            position: absolute;
+                                            margin-top: 18px;
+                                            z-index: -1;
+                                        }
+                                        
+                                        .paragraf1 {
+                                            font-family: Poppins;
+                                            font-size: 18px;
+                                            text-align: center;
+                                            margin-top: 10px;
+                                        }
+                                        
+                                        .kotak2 {
+                                            width: 60px;
+                                            background: #E2C31C;
+                                            height: 15px;
+                                            margin-left: 250px;
+                                            position: absolute;
+                                            margin-top: 40px;
+                                            z-index: -1;
+                                        }
+                                        
+                                        .easier {
+                                            font-size: 26px;
+                                            font-family: Poppins;
+                                            font-weight: bold;
+                                            color: #262626;
+                                            text-align: center;
+                                            margin-top: 20px;
+                                        }
+                                        
+                                        .paragraf2 {
+                                            font-family: Poppins;
+                                            font-size: 18px;
+                                            text-align: center;
+                                            margin-top: 10px;
+                                        }
+                                        
+                                        .kotak3 {
+                                            width: 90px;
+                                            background: #E2C31C;
+                                            height: 15px;
+                                            margin-left: 220px;
+                                            position: absolute;
+                                            margin-top: 40px;
+                                            z-index: -1;
+                                        }
+                                        
+                                        .more {
+                                            font-size: 26px;
+                                            color: #262626;
+                                            text-align: center;
+                                            font-weight: bold;
+                                            margin-top: 20px;
+                                            font-family: Poppins;
+                                        }
+                                        
+                                        .paragraf3 {
+                                            font-family: Poppins;
+                                            font-size: 18px;
+                                            text-align: center;
+                                            margin-top: 10px;
+                                        }
+                                        /* orang testimoni */
+                                        
+                                        .bg-testimoni {
+                                            background: #262626;
+                                        }
+                                        
+                                        .testimoni {
+                                            font-size: 64px;
+                                            color: #F4F4F4;
+                                            font-weight: 800;
+                                            font-family: Poppins;
+                                            font-style: normal;
+                                            text-align: center;
+                                            margin-top: 20px;
+                                            margin-bottom: 20px;
+                                        }
+                                        /* orang testimoni */
+                                        
+                                        .gambar-testimoni {
+                                            width: 150px;
+                                            height: 140px;
+                                            position: relative;
+                                            margin-top: 20px;
+                                            float: left;
+                                        }
+                                        
+                                        .circle-testimoni {
+                                            width: 150px;
+                                            height: 150px;
+                                            border-radius: 150px;
+                                            background: #E2C31C;
+                                            overflow: hidden;
+                                            position: relative;
+                                        }
+                                        
+                                        .robert {
+                                            font-size: 20px;
+                                            color: #F4F4F4;
+                                            font-weight: bold;
+                                            margin-top: 60px;
+                                            margin-left: 180px;
+                                        }
+                                        
+                                        .hrd {
+                                            font-size: 15px;
+                                            color: white;
+                                            font-style: italic;
+                                            font-weight: normal;
+                                            margin-left: 180px;
+                                        }
+                                        
+                                        .testimoni-text1 {
+                                            color: #F4F4F4;
+                                            font-family: Poppins;
+                                            font-size: 18px;
+                                            font-style: italic;
+                                            margin-top: 80px;
+                                        }
+                                        
+                                        .tombol-see-more {
+                                            width: 184px;
+                                            height: 64px;
+                                            background: #E2C31C;
+                                            border-radius: 35px;
+                                            font-size: 23px;
+                                            font-family: Poppins;
+                                            font-weight: bold;
+                                            color: #262626;
+                                            margin-top: 50px;
+                                        }
+                                        
+                                        .tombol-see-more:hover {
+                                            background: #e6d367;
+                                        }
+                                        /* ukuran desktop */
+                                        /* ukuran desktop */
+                                        
+                                        @media (min-width: 992px) {
+                                            .bg-navbar {
+                                                background: #262626;
+                                            }
+                                            .nav-link {
+                                                font-family: Poppins;
+                                                font-size: 18px;
+                                            }
+                                            .tombol-login {
+                                                background: #E2C31C;
+                                                border-radius: 25px;
+                                                width: 121px;
+                                            }
+                                            .tombol-login:hover {
+                                                background: #e6d367;
+                                            }
+                                            /* Jumbotron */
+                                            .jumbotron {
+                                                background: #262626;
+                                            }
+                                            .find {
+                                                color: #F4F4F4;
+                                                font-size: 64px;
+                                                font-weight: 800;
+                                                font-family: Poppins;
+                                                font-style: normal;
+                                                margin-top: 130px;
+                                            }
+                                            .lead {
+                                                font-size: 18px;
+                                                color: #F4F4F4;
+                                                margin-top: 20px;
+                                                letter-spacing: 1px;
+                                            }
+                                            .tombol-start {
+                                                width: 184px;
+                                                height: 64px;
+                                                background: #E2C31C;
+                                                border-radius: 35px;
+                                                font-size: 23px;
+                                                font-family: Poppins;
+                                                font-weight: bold;
+                                                color: #262626;
+                                                margin-top: 40px;
+                                            }
+                                            .tombol-start:hover {
+                                                background: #e6d367;
+                                            }
+                                            .orang {
+                                                width: 534px;
+                                                height: 883px;
+                                                margin-top: -90px;
+                                                position: relative;
+                                            }
+                                            /* bagian konten */
+                                            .orang2 {
+                                                width: 235px;
+                                                height: 260px;
+                                                margin-left: 20px;
+                                                margin-top: 20px;
+                                            }
+                                            .circle {
+                                                width: 254px;
+                                                height: 254px;
+                                                background: #E2C31C;
+                                                z-index: -1;
+                                                overflow: hidden;
+                                                border-radius: 190px;
+                                                margin-left: 150px;
+                                            }
+                                            .why {
+                                                font-size: 50px;
+                                                color: #262626;
+                                                text-align: left;
+                                                margin-right: 40px;
+                                                margin-top: 20px;
+                                            }
+                                            /* Bagian heading dan paragraf */
+                                            .user {
+                                                font-size: 26px;
+                                                font-family: Poppins;
+                                                font-weight: bold;
+                                                color: #262626;
+                                                text-align: center;
+                                                margin-top: 20px;
+                                            }
+                                            .kotak {
+                                                width: 60px;
+                                                background: #E2C31C;
+                                                height: 15px;
+                                                margin-left: 180px;
+                                                position: absolute;
+                                                margin-top: 40px;
+                                                z-index: -1;
+                                            }
+                                            .paragraf1 {
+                                                font-family: Poppins;
+                                                font-size: 18px;
+                                                text-align: justify;
+                                                margin-top: 20px;
+                                            }
+                                            .easier {
+                                                font-size: 26px;
+                                                color: #262626;
+                                                text-align: center;
+                                                font-weight: bold;
+                                                margin-top: 20px;
+                                                font-family: Poppins;
+                                            }
+                                            .kotak2 {
+                                                width: 60px;
+                                                background: #E2C31C;
+                                                height: 15px;
+                                                margin-left: 200px;
+                                                position: absolute;
+                                                margin-top: 40px;
+                                                z-index: -1;
+                                            }
+                                            .paragraf2 {
+                                                font-family: Poppins;
+                                                font-size: 18px;
+                                                text-align: justify;
+                                                margin-top: 20px;
+                                            }
+                                            .more {
+                                                font-size: 26px;
+                                                color: #262626;
+                                                text-align: center;
+                                                font-weight: bold;
+                                                margin-top: 20px;
+                                                font-family: Poppins;
+                                            }
+                                            .kotak3 {
+                                                width: 90px;
+                                                background: #E2C31C;
+                                                height: 15px;
+                                                margin-left: 165px;
+                                                position: absolute;
+                                                margin-top: 40px;
+                                                z-index: -1;
+                                            }
+                                            .paragraf3 {
+                                                font-family: Poppins;
+                                                font-size: 18px;
+                                                text-align: justify;
+                                                margin-top: 20px;
+                                            }
+                                            /* testimoni */
+                                            .bg-testimoni {
+                                                background: #262626;
+                                            }
+                                            .testimoni {
+                                                font-size: 64px;
+                                                color: #F4F4F4;
+                                                font-weight: 800;
+                                                font-family: Poppins;
+                                                font-style: normal;
+                                                text-align: center;
+                                            }
+                                            /* orang testimoni */
+                                            .gambar-testimoni {
+                                                width: 150px;
+                                                height: 140px;
+                                                position: relative;
+                                                margin-top: 20px;
+                                                float: left;
+                                            }
+                                            .circle-testimoni {
+                                                width: 150px;
+                                                height: 150px;
+                                                border-radius: 150px;
+                                                background: #E2C31C;
+                                                overflow: hidden;
+                                                position: relative;
+                                            }
+                                            .robert {
+                                                font-size: 20px;
+                                                color: #F4F4F4;
+                                                font-weight: bold;
+                                                margin-top: 60px;
+                                                margin-left: 200px;
+                                            }
+                                            .hrd {
+                                                font-size: 15px;
+                                                color: white;
+                                                font-style: italic;
+                                                font-weight: normal;
+                                                margin-left: 200px;
+                                            }
+                                            .testimoni-text1 {
+                                                color: #F4F4F4;
+                                                font-family: Poppins;
+                                                font-size: 18px;
+                                                font-style: italic;
+                                                margin-top: 90px;
+                                            }
+                                            .tombol-see-more {
+                                                width: 184px;
+                                                height: 64px;
+                                                background: #E2C31C;
+                                                border-radius: 35px;
+                                                font-size: 23px;
+                                                font-family: Poppins;
+                                                font-weight: bold;
+                                                color: #262626;
+                                                margin-top: 50px;
+                                                margin-left: 160px;
+                                            }
+                                            .tombol-see-more:hover {
+                                                background: #e6d367;
+                                            }
+                                        }
